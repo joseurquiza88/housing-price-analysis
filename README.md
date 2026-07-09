@@ -1,4 +1,4 @@
-# 🧠 Data Science Playground (en desarrollo 🚧)
+# 🧠 Análisis de Datos y Modelos Predictivos
 
 Este repositorio reúne distintos proyectos de análisis de datos y Machine Learning desarrollados con fines de aprendizaje y experimentación.
 
@@ -19,9 +19,10 @@ Dependiendo del caso de estudio, los proyectos pueden incluir:
 - 🧹 Limpieza y transformación de datos
 - ⚙️ Feature Engineering
 - 📊 Visualización de datos
-- 🤖 Desarrollo de modelos de Machine Learning
+- 🤖 Desarrollo de modelos predictivos
 - 📈 Evaluación y comparación de modelos
 - 💡 Obtención e interpretación de insights
+- 🚀 Construcción de Pipelines
 
 ---
 
